@@ -1,16 +1,5 @@
 h1 {
   font-size: 24px;
-  padding-bottom: 8px;
-  padding-top: 8px;
-  text-align: center;
-  background: pink;
-  
-
-}
-p {
-  font-size: 20px;
-  background: powderblue;
-  text-align: center;
-
-
+  padding-left: 16px;
+  border-left: 8px solid pink;
 }
